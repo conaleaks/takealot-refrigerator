@@ -1,0 +1,23 @@
+{
+  "TAK-30-994812": {
+    "order_id": "TAK-30-994812",
+    "tracking_code": "TAK-30-994812",
+    "courier": "Takealot Fast Delivery Team",
+    "waybill": "WB-ZAF-823957",
+    "status": "in_transit",
+    "status_text": "Out for Delivery",
+    "status_step": 3,
+    "customer_name": "Valued Customer",
+    "customer_email": "customer@takealot.co.za",
+    "customer_phone": "+27 82 555 1234",
+    "delivery_address": "Cape Town & Surrounds, South Africa",
+    "product_title": "Samsung 300L Bottom Freezer Refrigerator with Water Dispenser - Inox (RB30J3611S9)",
+    "product_image": "https://iili.io/oKD3ELG.jpg",
+    "screen_size": "300L",
+    "quantity": 1,
+    "amount": 2199,
+    "currency": "ZAR",
+    "created_at": "23 Nov 2026",
+    "estimated_delivery": "2 - 4 Business Days"
+  }
+}
